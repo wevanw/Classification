@@ -7,7 +7,7 @@
   
 3. Classification:
   a. knn
-  b.Linear Regression
+  b. Linear Regression
   c. SVM
   d. GBDT
   
